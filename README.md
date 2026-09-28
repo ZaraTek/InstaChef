@@ -1,3 +1,5 @@
+![InstaChef](cover.jpg)
+
 # InstaChef
 
 ## Inspiration
